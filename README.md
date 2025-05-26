@@ -34,7 +34,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/yourusername/bookstore-api.git
+git clone https://github.com/lilsuncode/bookstore-api.git
 cd bookstore-api
 
 # Активируй виртуальное окружение
